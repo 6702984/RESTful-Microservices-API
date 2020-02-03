@@ -1,0 +1,22 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "jquery@3.4.1",
+      "destination": "wwwroot/lib/jquery/"
+    },
+    {
+      "library": "twitter-bootstrap@4.4.1",
+      "destination": "wwwroot/lib/bootstrap/"
+    },
+    {
+      "library": "font-awesome@5.12.0",
+      "destination": "wwwroot/lib/font-awesome/"
+    },
+    {
+      "library": "bootswatch@4.4.1",
+      "destination": "wwwroot/lib/bootswatch/"
+    }
+  ]
+}
